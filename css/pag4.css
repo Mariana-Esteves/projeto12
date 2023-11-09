@@ -1,0 +1,57 @@
+boby{
+    background-color: darkgray;
+}
+
+.principal{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parte-001{
+    width: 100%;
+    height: 20px;
+}
+
+.parte-002{
+    width:850px ;
+    height: 60px;
+    margin-left: auto;
+}
+
+.parte-003{
+    width: 160px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: -60px;
+
+}
+
+.parte-003 img{
+    height: 100%;
+    }
+
+    .parte-004{
+        width: 160px;
+        height: 180px;
+     align-items: center;
+     margin-left: 400px;
+    
+    }
+    
+    .parte-004 img{
+        height: 100%;
+        }
+
+        .parte-005{
+            width: 160px;
+            height: 180px;
+         margin-top: -350px;
+         margin-left: 700px;
+        
+        }
+        
+        .parte-005 img{
+            height: 100%;
+            }
